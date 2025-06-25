@@ -31,3 +31,9 @@ The File Management Tool developed in C++ is a simple yet effective application 
 -> This tool is designed to work on any platform that supports a C++ compiler, such as g++, and is ideal for running in Visual Studio Code or any other modern development environment. It serves as a basic yet powerful introduction to file management in C++ and can be expanded further to include features like file deletion, search, or line-wise editing.
 
 -> Overall, this File Management Tool is a strong demonstration of practical file handling skills in C++. It meets the expectations of the internship task by providing a functional and interactive application that showcases core file I/O concepts in a real-world scenario. It also helps in strengthening the understanding of how persistent data storage works in programming.
+
+
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/258ba162-99d7-439f-8c5b-86c2ebc54598)
